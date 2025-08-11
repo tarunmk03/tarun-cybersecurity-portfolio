@@ -1,32 +1,41 @@
-# Tarun M — Cybersecurity Portfolio  
+# Cybersecurity Projects Portfolio
 
-**Quick Overview:**  
-Hands-on penetration testing and security walkthroughs demonstrating exploitation of web/app vulnerabilities and external scanning methodologies.
-
----
-
-## 📂 Download All Projects
-[**⬇ Download All Projects (single PDF)**](https://github.com/tarunmk03/tarun-cybersecurity-portfolio/raw/main/Cybersecurity_Pro_TarunM.pdf)
+Welcome to my Cybersecurity Projects Portfolio.  
+This repository contains various penetration testing and security assessment projects I have completed.
 
 ---
 
-## 📊 Projects (from hardest → easiest)
+## 📂 Projects Included
 
-| #   | Project Title | Short Description | Difficulty | Link |
-|-----|--------------|-------------------|------------|------|
-| 04  | **Penetration Testing Report — External Scans** | Nmap, WhatWeb, Nikto, Gobuster, Searchsploit — findings & remediation. | Hard | [📄 View PDF](projects/Penetration_Testing_Report_TarunM_FINAL_Optimized.pdf) |
-| 03  | **DVWA — SQL Injection** | Step-by-step SQLi (Low) with payloads and mitigation. | Medium | [📄 View PDF](projects/DVWA_SQLi_StepByStep_Compressed.pdf) |
-| 02  | **DVWA — Stored XSS** | Stored XSS in Low & Medium security; payloads & screenshots. | Medium | [📄 View PDF](projects/DVWA_Stored_XSS_Report.pdf) |
-| 01  | **DVWA — Command Injection** | Command injection exploit examples: `ping`, `cat /etc/passwd` etc., with fixes. | Easy | [📄 View PDF](projects/Command_Injection_DVWA_Split.pdf) |
+1. **DVWA Command Injection**  
+   - Demonstrates exploiting command injection vulnerabilities.
+   - [View PDF Report](Command_Injection_DVWA_Split.pdf)
+
+2. **DVWA Stored XSS**  
+   - Exploiting stored cross-site scripting vulnerabilities.
+   - [View PDF Report](DVWA_Stored_XSS_Report.pdf)
+
+3. **DVWA SQL Injection**  
+   - Demonstrates SQL injection attacks.
+   - [View PDF Report](DVWA_SQLi_StepByStep_Compressed.pdf)
+
+4. **Full Penetration Testing Report**  
+   - Combined penetration testing results with Nmap & WhatWeb analysis.
+   - [View PDF Report](Penetration_Testing_Report_TarunM_FINAL_Optimized.pdf)
 
 ---
 
-## 📌 About Me  
-Cybersecurity enthusiast with hands-on experience in penetration testing, vulnerability assessment, and secure coding practices. Passionate about identifying risks, securing applications, and building safer systems.  
+## 📄 All Projects in One PDF
+
+If you want all 4 projects in one professional PDF file:  
+[📄 **Download All Projects (Single PDF)**](https://github.com/tarunmk03/tarun-cybersecurity-portfolio/raw/main/Cybersecurity_Projects_Portfolio_tarun.pdf)
 
 ---
 
-**GitHub Repository:** [tarun-cybersecurity-portfolio](https://github.com/tarunmk03/tarun-cybersecurity-portfolio)  
+## 🔗 Connect with Me
+- **LinkedIn:** [Your LinkedIn Link Here]
+- **GitHub:** [https://github.com/tarunmk03](https://github.com/tarunmk03)
+
 
 
 
