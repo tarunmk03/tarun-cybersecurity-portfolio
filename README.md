@@ -1,40 +1,53 @@
-# Cybersecurity Projects Portfolio
+# 🛡 Cybersecurity Projects Portfolio – Tarun M
 
-Welcome to my Cybersecurity Projects Portfolio.  
-This repository contains various penetration testing and security assessment projects I have completed.
-
----
-
-## 📂 Projects Included
-
-1. **DVWA Command Injection**  
-   - Demonstrates exploiting command injection vulnerabilities.
-   - [View PDF Report](Command_Injection_DVWA_Split.pdf)
-
-2. **DVWA Stored XSS**  
-   - Exploiting stored cross-site scripting vulnerabilities.
-   - [View PDF Report](DVWA_Stored_XSS_Report.pdf)
-
-3. **DVWA SQL Injection**  
-   - Demonstrates SQL injection attacks.
-   - [View PDF Report](DVWA_SQLi_StepByStep_Compressed.pdf)
-
-4. **Full Penetration Testing Report**  
-   - Combined penetration testing results with Nmap & WhatWeb analysis.
-   - [View PDF Report](Penetration_Testing_Report_TarunM_FINAL_Optimized.pdf)
+Welcome to my Cybersecurity Projects portfolio.  
+This repository contains hands-on penetration testing and web security projects with step-by-step documentation.
 
 ---
 
-## 📄 All Projects in One PDF
-
-If you want all 4 projects in one professional PDF file:  
-[📄 **Download All Projects (Single PDF)**](https://github.com/tarunmk03/tarun-cybersecurity-portfolio/raw/main/Cybersecurity_Projects_Portfolio_tarun.pdf)
+## 📂 Full Portfolio Download
+📄 [Download Complete Portfolio (All Projects)](Cybersecurity_Projects_Portfolio_tarun.pdf)
 
 ---
 
-## 🔗 Connect with Me
-- **LinkedIn:** [Your LinkedIn Link Here]
-- **GitHub:** [https://github.com/tarunmk03](https://github.com/tarunmk03)
+## 🔍 Individual Projects
+
+### 1️⃣ Penetration Testing Report – DVWA & Recon
+📄 [View PDF](Penetration_Testing_Report_TarunM_FINAL_WorkingCopy.pdf)
+
+---
+
+### 2️⃣ Command Injection – DVWA
+📄 [View PDF](Command_Injection_DVWA_Split.pdf)
+
+---
+
+### 3️⃣ Stored XSS – DVWA
+📄 [View PDF](DVWA_Stored_XSS_Report.pdf)
+
+---
+
+### 4️⃣ SQL Injection – DVWA
+📄 [View PDF](DVWA_SQLi_StepByStep_Compressed.pdf)
+
+---
+
+## 📌 About
+- All projects were performed in a controlled lab environment.
+- Tools used include: **Nmap, WhatWeb, Nikto, Burp Suite, DVWA**.
+- Focus areas: **Web application security**, **Vulnerability exploitation**, **Ethical hacking methodology**.
+
+---
+
+## 📫 Connect With Me
+- 💼 **LinkedIn:** [linkedin.com/in/tarunmk03](https://www.linkedin.com/in/tarunmk03)
+- 📧 **Email:** tarunmk03@gmail.com
+- 🖥 **GitHub:** [github.com/tarunmk03](https://github.com/tarunmk03)
+
+---
+
+💼 *Created by Tarun M*
+
 
 
 
