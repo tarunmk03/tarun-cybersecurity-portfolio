@@ -2,7 +2,7 @@
 
 Quick: hands-on reports and walkthroughs demonstrating web/app vulnerabilities and external scanning.
 
-📄 **[Download All Projects (single PDF)](./Cybersecurity_Projects.pdf)**
+📄 **[Download All Projects (single PDF)](https://github.com/tarunmk03/tarun-cybersecurity-portfolio/blob/main/Cybersecurity_Projects_Portfolio_tarun..pdf)**
 
 ---
 
