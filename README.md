@@ -6,7 +6,7 @@ This repository contains hands-on penetration testing and web security projects 
 ---
 
 ## 📂 Full Portfolio Download
-📄 [Download Complete Portfolio (All Projects)](Cybersecurity_Projects_Portfolio_tarun.pdf)
+📄 [Download Complete Portfolio (All Projects)](Cybersecurity_Projects_Portfolio_tarun.pdf.pdf)
 
 
 ---
